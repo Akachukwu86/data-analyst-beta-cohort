@@ -2,11 +2,12 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 0/1 complete
+## Lessons — 1/2 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Set up your data analyst portfolio | In progress | 5 | 10 Aug 2026, 11:49 |
+| Set up your data analyst portfolio | Complete | 12 | 10 Aug 2026, 18:34 |
+| Learn: Workbook setup, tables, sorting, filtering, and named ranges | In progress | 0 | 10 Aug 2026, 23:12 |
 
 ### Set up your data analyst portfolio
 
@@ -14,3 +15,9 @@
 
 - **Built:** created a Github account and project repository - https://github.com/Akachukwu86/data-analyst-beta-cohort
 - **Note:** I clone my repo into VS code
+
+### Learn: Workbook setup, tables, sorting, filtering, and named ranges
+
+**What I did**
+
+- **Built:** created new folders on my VS code account, examined data life cycle from creating to archive. difference between data and information
