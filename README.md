@@ -12,7 +12,8 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 10 Aug 2026, 11:49 | Lesson | Set up your data analyst portfolio | In progress |
+| 10 Aug 2026, 18:34 | Lesson | Set up your data analyst portfolio | Complete |
+| 10 Aug 2026, 23:12 | Lesson | Learn: Workbook setup, tables, sorting, filtering, and named ranges | In progress |
 
 Full journal: [journal/index.md](journal/index.md)
 
