@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**3 days logged &middot; 1 weeks &middot; 1-day streak &middot; last activity 2026-08-10**
+**4 days logged &middot; 1 weeks &middot; 1-day streak &middot; last activity 2026-08-12**
 
 ## Latest Proof
 
@@ -12,8 +12,8 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 12 Aug 2026, 17:12 | Lesson | Learn: Workbook setup, tables, sorting, filtering, and named ranges | In progress |
 | 10 Aug 2026, 18:34 | Lesson | Set up your data analyst portfolio | Complete |
-| 10 Aug 2026, 23:12 | Lesson | Learn: Workbook setup, tables, sorting, filtering, and named ranges | In progress |
 
 Full journal: [journal/index.md](journal/index.md)
 
