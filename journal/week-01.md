@@ -2,12 +2,12 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 1/2 complete
+## Lessons — 2/2 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Set up your data analyst portfolio | Complete | 12 | 10 Aug 2026, 18:34 |
-| Learn: Workbook setup, tables, sorting, filtering, and named ranges | In progress | 2 | 14 Aug 2026, 14:09 |
+| Learn: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 6 | 14 Aug 2026, 15:49 |
 
 ### Set up your data analyst portfolio
 
@@ -23,3 +23,4 @@
 - **Built:** created new folders on my VS code account, examined data life cycle from creating to archive. difference between data and information
 - **Note:** Named three different sheets in excel, saved file in repo database
 - **Note:** formatted raw data into table, renamed and saved as transactions table
+- **Built:** created name range verify with formula
