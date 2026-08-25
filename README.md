@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**6 days logged &middot; 2 weeks &middot; 1-day streak &middot; last activity 2026-08-21**
+**7 days logged &middot; 2 weeks &middot; 1-day streak &middot; last activity 2026-08-25**
 
 ## Latest Proof
 
@@ -12,6 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 25 Aug 2026, 17:46 | Lesson | Practice: Workbook setup, tables, sorting, filtering, and named ranges | In progress |
 | 2026-08-19 | Daily Concept Clinic | Daily Concept Clinic | — |
 | 14 Aug 2026, 15:49 | Lesson | Learn: Workbook setup, tables, sorting, filtering, and named ranges | Complete |
 | 10 Aug 2026, 18:34 | Lesson | Set up your data analyst portfolio | Complete |
