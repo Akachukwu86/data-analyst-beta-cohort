@@ -7,4 +7,4 @@ Lessons counts saved lesson notes. Daily Tasks counts separate cohort-tab daily 
 | Week | Lessons | Daily Tasks | Concept Clinic | Hackathon | Show & Tell | Mock Interview | |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Week 3 | – | – | 1 | – | – | – | [open](week-03.md) |
-| Week 1 | 2 | – | – | – | – | – | [open](week-01.md) |
+| Week 1 | 3 | – | – | – | – | – | [open](week-01.md) |
