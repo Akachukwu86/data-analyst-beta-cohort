@@ -12,3 +12,12 @@ _2026-08-19 · logged 2026-08-21 16:51 UTC_
 - **What you now understand:** The sequence of stages that data undergoes from collection to storage and archiving. This is important to ensure the quality and accuracy of the data, which helps support policing decision-makers
 - **What is still unclear or your feedback:** Not applicable, the lecture was well delivered
 - **What support or practice you need next:** No further support needed
+
+### CT 03 · Understanding Data for Analysis
+
+_2026-08-26 · logged 2026-08-26 22:19 UTC_
+
+- **Clinic topic:** CT 03 · Understanding Data for Analysis
+- **What was taught:** Understanding data for analysis
+- **What you now understand:** Every data tells a story, data analytics is classified into identify, dimension, measure and date/time
+- **What is still unclear or your feedback:** not applicable
