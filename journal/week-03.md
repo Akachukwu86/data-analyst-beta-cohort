@@ -21,3 +21,13 @@ _2026-08-26 · logged 2026-08-26 22:19 UTC_
 - **What was taught:** Understanding data for analysis
 - **What you now understand:** Every data tells a story, data analytics is classified into identify, dimension, measure and date/time
 - **What is still unclear or your feedback:** not applicable
+
+### CT 04 · The Analytics Workflow
+
+_2026-09-02 · logged 2026-09-02 22:52 UTC_
+
+- **Clinic topic:** CT 04 · The Analytics Workflow
+- **What was taught:** analytical workflow
+- **What you now understand:** Every problem follows a pattern that is referred to as an analytical workflow. it has a nine-step analytical loop. This includes ask, find, access, clean, analyse, visualise, communicate, decision and feedback
+- **What is still unclear or your feedback:** not applicable,
+- **What support or practice you need next:** 1:1 review with a mentor
