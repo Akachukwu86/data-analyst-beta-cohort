@@ -41,3 +41,15 @@ Every problem follows a pattern that is referred to as an analytical workflow. i
 
 - **Still unclear:** not applicable,
 - **Support I need next:** 1:1 review with a mentor
+
+### CT 05 · Communicating with Data
+
+_2026-09-03 · logged 2026-09-03 22:05 UTC_
+
+- **Taught:** communicating with data
+
+**What I now understand**
+
+This is a structured process that involves turning raw data and analysis into meaningful messages using charts, graphs, tables, and reports.  A chart has only one purpose, which is to reduce cognitive load so that the audience can see the major insight instantly.
+
+- **Still unclear:** data storytelling and the SCQA
