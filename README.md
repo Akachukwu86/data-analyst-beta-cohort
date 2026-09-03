@@ -12,6 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 2026-09-03 | Daily Concept Clinic | CT 05 · Communicating with Data | — |
 | 2026-09-02 | Daily Concept Clinic | CT 04 · The Analytics Workflow | — |
 | 2026-08-26 | Daily Concept Clinic | CT 03 · Understanding Data for Analysis | — |
 | 25 Aug 2026, 17:46 | Lesson | Practice: Workbook setup, tables, sorting, filtering, and named ranges | In progress |
