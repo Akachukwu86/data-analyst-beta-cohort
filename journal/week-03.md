@@ -53,3 +53,15 @@ _2026-09-03 · logged 2026-09-03 22:05 UTC_
 This is a structured process that involves turning raw data and analysis into meaningful messages using charts, graphs, tables, and reports.  A chart has only one purpose, which is to reduce cognitive load so that the audience can see the major insight instantly.
 
 - **Still unclear:** data storytelling and the SCQA
+
+### CT 08 · Data Tables, Fields & Relationships
+
+_2026-09-04 · logged 2026-09-04 21:57 UTC_
+
+- **Taught:** Data tables, fields and relationship
+
+**What I now understand**
+
+Relationship between column, row and customer ID. row is an observation, while a column is a field. There are four major data fields, which include identifier, dimension, measure and date.
+
+- **Still unclear:** Data tables
