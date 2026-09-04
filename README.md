@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**10 days logged &middot; 2 weeks &middot; 2-day streak &middot; last activity 2026-09-03**
+**11 days logged &middot; 2 weeks &middot; 3-day streak &middot; last activity 2026-09-04**
 
 ## Latest Proof
 
@@ -12,6 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 2026-09-04 | Daily Concept Clinic | CT 08 · Data Tables, Fields & Relationships | — |
 | 2026-09-03 | Daily Concept Clinic | CT 05 · Communicating with Data | — |
 | 2026-09-02 | Daily Concept Clinic | CT 04 · The Analytics Workflow | — |
 | 2026-08-26 | Daily Concept Clinic | CT 03 · Understanding Data for Analysis | — |
