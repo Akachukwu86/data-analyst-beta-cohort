@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Set up your data analyst portfolio | Complete | 12 | 10 Aug 2026, 18:34 |
 | Learn: Workbook setup, tables, sorting, filtering, and named ranges | Complete | 6 | 14 Aug 2026, 15:49 |
-| Practice: Workbook setup, tables, sorting, filtering, and named ranges | In progress | 5 | 25 Aug 2026, 17:46 |
+| Practice: Workbook setup, tables, sorting, filtering, and named ranges | In progress | 5 | 11 Sept 2026, 08:48 |
 
 ### Set up your data analyst portfolio
 
@@ -31,3 +31,4 @@
 **What I did**
 
 - **Note:** Named a convention saved to my repo, took a screenshot of the saved file
+- **Note:** building a work book report, formatting tables and saving it i
