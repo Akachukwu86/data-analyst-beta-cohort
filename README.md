@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**11 days logged &middot; 2 weeks &middot; 3-day streak &middot; last activity 2026-09-04**
+**12 days logged &middot; 2 weeks &middot; 1-day streak &middot; last activity 2026-09-11**
 
 ## Latest Proof
 
@@ -16,10 +16,10 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 | 2026-09-03 | Daily Concept Clinic | CT 05 · Communicating with Data | — |
 | 2026-09-02 | Daily Concept Clinic | CT 04 · The Analytics Workflow | — |
 | 2026-08-26 | Daily Concept Clinic | CT 03 · Understanding Data for Analysis | — |
-| 25 Aug 2026, 17:46 | Lesson | Practice: Workbook setup, tables, sorting, filtering, and named ranges | In progress |
 | 2026-08-19 | Daily Concept Clinic | Daily Concept Clinic | — |
 | 14 Aug 2026, 15:49 | Lesson | Learn: Workbook setup, tables, sorting, filtering, and named ranges | Complete |
 | 10 Aug 2026, 18:34 | Lesson | Set up your data analyst portfolio | Complete |
+| 11 Sept 2026, 08:48 | Lesson | Practice: Workbook setup, tables, sorting, filtering, and named ranges | In progress |
 
 Full journal: [journal/index.md](journal/index.md)
 
