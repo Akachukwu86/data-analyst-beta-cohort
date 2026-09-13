@@ -14,12 +14,12 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 | --- | --- | --- | --- |
 | 2026-09-13 | Daily Concept Clinic | DQ Math 02 · Missing Data | — |
 | 2026-09-13 | Daily Concept Clinic | Daily Concept Clinic | — |
+| 2026-09-13 | Daily Concept Clinic | Daily Concept Clinic | — |
 | 2026-09-04 | Daily Concept Clinic | CT 08 · Data Tables, Fields & Relationships | — |
 | 2026-09-03 | Daily Concept Clinic | CT 05 · Communicating with Data | — |
 | 2026-09-02 | Daily Concept Clinic | CT 04 · The Analytics Workflow | — |
 | 2026-08-26 | Daily Concept Clinic | CT 03 · Understanding Data for Analysis | — |
 | 2026-08-19 | Daily Concept Clinic | Daily Concept Clinic | — |
-| 14 Aug 2026, 15:49 | Lesson | Learn: Workbook setup, tables, sorting, filtering, and named ranges | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
