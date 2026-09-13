@@ -65,3 +65,18 @@ _2026-09-04 · logged 2026-09-04 21:57 UTC_
 Relationship between column, row and customer ID. row is an observation, while a column is a field. There are four major data fields, which include identifier, dimension, measure and date.
 
 - **Still unclear:** Data tables
+
+### DQ Math 02 · Missing Data
+
+_2026-09-13 · logged 2026-09-13 22:45 UTC_
+
+**Taught**
+
+Think of missing data like a process that follows three steps.
+1) detect
+2)analysing
+3)resolve
+
+When analysing a missing data, they are four categories it will fall into.
+
+Category A, when the value does not apply. Category B when the event has not happened yet, category C values lost through imputation or via technical errors and category D when the data is deliberately withheld
