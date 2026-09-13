@@ -86,3 +86,9 @@ Category A, when the value does not apply. Category B when the event has not hap
 _2026-09-13 · logged 2026-09-13 22:45 UTC_
 
 - **Support I need next:** No further support needed
+
+### Daily Concept Clinic
+
+_2026-09-13 · logged 2026-09-13 22:47 UTC_
+
+- **Taught:** Missing data
