@@ -80,3 +80,9 @@ Think of missing data like a process that follows three steps.
 When analysing a missing data, they are four categories it will fall into.
 
 Category A, when the value does not apply. Category B when the event has not happened yet, category C values lost through imputation or via technical errors and category D when the data is deliberately withheld
+
+### Daily Concept Clinic
+
+_2026-09-13 · logged 2026-09-13 22:45 UTC_
+
+- **Support I need next:** No further support needed
